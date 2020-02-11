@@ -11,7 +11,7 @@ cupshelpers==1.0
 decorator==4.1.2
 defer==1.0.6
 distro-info==0.18
-Django==2.1.7
+Django==2.2.10
 entrypoints==0.2.3.post1
 Flask==1.0.2
 html5lib==0.999999999
